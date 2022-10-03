@@ -1,4 +1,4 @@
-# 2020 Homework 1
+# 2021 Homework 1
 
 1. Write a shell script called `count_fires.sh` which does all of the following.
    * Download a comma delimited datasets from data.gov file which are listing of fires in several decades. (hint use `curl`)
